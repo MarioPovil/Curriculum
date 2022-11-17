@@ -131,41 +131,44 @@ return (
         <div id="portfolio">
                     <div class="container-fluid p-0">
                      <div class="row g-0">
-                          <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="./src/assets/img/portfolio/fullsize/1.jpg" title="Project Name">
-                            <img class="img-fluid" src="assets/img/PERN1.png" alt="PERN stack" />
+                          <div class="col-lg-6 col-sm-6">
+                        <a class="portfolio-box" href="https://mariopovil.github.io/PERN/" title="Project Name" target="_blank">
+                            <img class="img-fluid" src="./src/assets/img/PERN1.png" alt="PERN stack" />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">REST API CRUD</div>
+                                <div class="project-name">PERN STACK</div>
+                                <p> Este cuenta con un despliegue ESTATICO mediante gh-pages con git, por lo cual se muestra el front, pero no se pueden crear listas, para verficar el codigo, se debe forkear y inicializar en VSC</p>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/PernCrud.png" title="Project Name">
-                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/2.jpg" alt="..." />
+                    <div class="col-lg-6 col-sm-6">
+                        <a class="portfolio-box" href="https://github.com/MarioPovil/PERN" title="PernCode" target="_blank">
+                            <img class="img-fluid" src="./src/assets/img/PernCrud.png" alt="PernCode" />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">REST API CRUD</div>
+                                <div class="project-name">PERN STACK</div>
+                  
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="#" title="TicTacToe">
-                            <img class="img-fluid" src="./assets/img/tictactoe.png" alt="TicTacToe" />
+                    
+                    <div class="col-lg-6 col-sm-6">
+                        <a class="portfolio-box" href="https://github.com/MarioPovil/TicTacToe" title="Project Name" target="_blank">
+                            <img class="img-fluid" src="./src/assets/img/tictactoe.png" alt="..." />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">Juegos</div>
+                                <div class="project-name">TicTacToe</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-6 col-sm-6">
+                        <a class="portfolio-box" href="https://github.com/MarioPovil/TicTacToe" title="TicTacToe" target="_blank">
+                            <img class="img-fluid" src="./src/assets/img/tiktaktoecode.png" alt="TicTacToeDisplay" />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Juegos</div>
+                                <div class="project-name">TicTacToeCode</div>
                             </div>
                             </a>
-                    </div>
-                            <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/tictactoecode.png" title="Project Name">
-                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/3.jpg" alt="..." />
-                            <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
-                            </div>
-                        </a>
                     </div>
                 </div>
             </div>
